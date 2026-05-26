@@ -1,0 +1,10 @@
+{
+  "musicnotifications.options.header": "Musik-Benachrichtigungseinstellungen",
+  "musicnotifications.options.enabled": "Benachrichtigungen",
+  "musicnotifications.options.icon": "Schallplatten-Symbol",
+  "musicnotifications.options.position": "Position",
+  "musicnotifications.options.position.top_right": "Oben Rechts",
+  "musicnotifications.options.position.top_left": "Oben Links",
+  "musicnotifications.options.duration": "Dauer",
+  "musicnotifications.options.duration.value": "%s Sek"
+}

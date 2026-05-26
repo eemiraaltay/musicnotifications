@@ -1,0 +1,10 @@
+{
+  "musicnotifications.options.header": "Настройки музыкальных уведомлений",
+  "musicnotifications.options.enabled": "Уведомления",
+  "musicnotifications.options.icon": "Иконка диска",
+  "musicnotifications.options.position": "Позиция",
+  "musicnotifications.options.position.top_right": "Сверху справа",
+  "musicnotifications.options.position.top_left": "Сверху слева",
+  "musicnotifications.options.duration": "Продолжительность",
+  "musicnotifications.options.duration.value": "%s сек"
+}

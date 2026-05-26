@@ -1,0 +1,10 @@
+{
+  "musicnotifications.options.header": "Ajustes de Notificación de Música",
+  "musicnotifications.options.enabled": "Notificaciones",
+  "musicnotifications.options.icon": "Icono de Disco",
+  "musicnotifications.options.position": "Posición",
+  "musicnotifications.options.position.top_right": "Arriba a la Derecha",
+  "musicnotifications.options.position.top_left": "Arriba a la Izquierda",
+  "musicnotifications.options.duration": "Duración",
+  "musicnotifications.options.duration.value": "%s seg"
+}

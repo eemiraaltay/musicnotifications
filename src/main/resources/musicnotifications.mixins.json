@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.aaltay.musicnotifications.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"SoundOptionsScreenMixin",
+		"SoundManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 0
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "musicnotifications.options.header": "Müzik Bildirim Ayarları",
+  "musicnotifications.options.enabled": "Bildirimler",
+  "musicnotifications.options.icon": "Disk İkonu",
+  "musicnotifications.options.position": "Konum",
+  "musicnotifications.options.position.top_right": "Sağ Üst",
+  "musicnotifications.options.position.top_left": "Sol Üst",
+  "musicnotifications.options.duration": "Süre",
+  "musicnotifications.options.duration.value": "%s sn"
+}

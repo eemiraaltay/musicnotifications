@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "musicnotifications",
+	"version": "${version}",
+	"name": "Music Notifications",
+	"description": "Shows the system's currently playing music as Minecraft toast notifications.",
+	"authors": [
+		"aaltay"
+	],
+	"contact": {
+		"homepage": "https://github.com/eemiraaltay/musicnotifications",
+		"sources": "https://github.com/eemiraaltay/musicnotifications"
+	},
+	"license": "MIT",
+	"icon": "pack.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.aaltay.musicnotifications.MusicNotificationsMod"
+		]
+	},
+	"mixins": [
+		"musicnotifications.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.1",
+		"minecraft": "26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

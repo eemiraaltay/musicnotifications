@@ -1,0 +1,10 @@
+{
+  "musicnotifications.options.header": "音乐通知设置",
+  "musicnotifications.options.enabled": "通知",
+  "musicnotifications.options.icon": "光盘图标",
+  "musicnotifications.options.position": "位置",
+  "musicnotifications.options.position.top_right": "右上角",
+  "musicnotifications.options.position.top_left": "左上角",
+  "musicnotifications.options.duration": "显示时间",
+  "musicnotifications.options.duration.value": "%s 秒"
+}
